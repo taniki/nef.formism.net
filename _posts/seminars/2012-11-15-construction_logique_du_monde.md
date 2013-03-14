@@ -9,7 +9,7 @@ layout: default
 
 ## bibliographie
 
-- Jules Vuillemin La logique et le monde sensible, Flammarion, 1967
-- Bertrand Russell La philosophie de l’atomisme logique in  Ecrits de logique philosophique, PUF, 1989
-- Rudolf Carnap la construction logique du monde Vrin 
-- Theodore Sider Writing the Book of the World
+- Jules Vuillemin, _La logique et le monde sensible_ (Flammarion, 1967)
+- Bertrand Russell, La philosophie de l’atomisme logique in _Ecrits de logique philosophique_ (PUF, 1989)
+- Rudolf Carnap, _la construction logique du monde_ (Vrin) 
+- Theodore Sider, _Writing the Book of the World_

@@ -9,7 +9,7 @@ layout: default
 
 ## bibliographie
 
-- Jules Vuillemin La logique et le monde sensible, Flammarion, 1967
-- Bertrand Russell La philosophie de l’atomisme logique in  Ecrits de logique philosophique, PUF, 1989
-- Rudolf Carnap la construction logique du monde Vrin 
-- Theodore Sider Writing the Book of the World
+- Daniel Nolan, _[The Credo of the Camberra Planners](https://sites.google.com/site/professordanielnolan/credo)_ 
+- D. Hutto, _[Presumptuous Naturalism : a Cautionary Tale](https://uhra.herts.ac.uk/dspace/bitstream/2299/5877/1/905439.pdf)_
+- David Braddon-Mitchell et Robert Nolla, _[Conceptual Analysis and Philosophical Naturalism](http://goo.gl/nGu2E)_ (chapitre 1)
+- Peter Menzies et Huw Price, « [Is Semantics in the Plan ?](http://prce.hu/w/preprints/MenziesPriceCanberraPlan.pdf) » in  Naturalism and Analysis, D. Braddon-Mitchell et R. Nola éds.
