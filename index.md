@@ -14,7 +14,7 @@ La structure métaphysique du monde est un thème central de la philosophie actu
 - défense de la connexion causale contre la théorie humienne
 - relations entre temps et causalité
 
-On traitera aussi de la différence qui existe entre dépendance et connexion et on opposera une contologie de la dépendance et une ontologie de la connexion.
+On traitera aussi de la différence qui existe entre dépendance et connexion puis on opposera une ontologie de la dépendance et une ontologie de la connexion.
 
 ---
 
