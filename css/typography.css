@@ -38,3 +38,22 @@ p a, li a { color : #d85724; }
 
 em { font-family: 'NewBaskervilleW01-Itali'; }
 strong { font-family:'NewBaskervilleW01-SemiB 693023'; }
+
+#footer {
+  text-align : center;
+  font-family: verdana;
+  font-size : 12px;
+  line-height: 24px;
+  color : #999;
+}
+
+#footer a {
+  text-decoration : none;
+  color : #666;
+  padding-bottom : 2px;
+  border-bottom : 1px solid #c10b0b;
+}
+
+#footer nav { margin-bottom : 48px; }
+
+#footer #credits { font-size: 10px; line-height: 16px; }
