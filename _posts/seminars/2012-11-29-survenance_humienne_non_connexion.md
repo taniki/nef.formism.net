@@ -18,4 +18,4 @@ layout: default
 
 - Hall Ned « David Lewis Metaphysics » Standford Encyclopedia of Philosophy 2010, sur internet [avec les suppléments : « Contingency of Humean Supervenience », « Space-Time Points », « Fundamental Entities » ]
 
-- Frédéric Nef « Survenance humienne, physique et métaphysique : disposition, structure et connexion » Krisis, n° spécial Lewis, Yann Schmittt éd., 2012
+- Frédéric Nef « [Survenance humienne, physique et métaphysique : disposition, structure et connexion](http://www.revue-klesis.org/pdf/Klesis-Lewis-5-Nef.pdf) » Krisis, n° spécial Lewis, Yann Schmittt éd., 2012
