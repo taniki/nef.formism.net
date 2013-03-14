@@ -57,4 +57,4 @@ article .tags ul {  list-style-type: none; margin : 0; }
 ul.dates { list-style-type: none; padding : 0;  margin: 0; left : -48px; }
 ul.dates li { position: relative; overflow: visible; clear : both; line-height: 24px; }
 ul.dates li a { }
-ul.dates span { width : 0; }
+ul.dates span { float : left; width : 0;  overflow: visible; left : -48px; position : relative; color : #999999;}
