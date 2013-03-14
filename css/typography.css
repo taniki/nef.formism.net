@@ -1,0 +1,37 @@
+/*
+
+font-family:'NewBaskervilleW01-Roman';
+font-family:'NewBaskervilleW01-Itali';
+font-family:'NewBaskervilleW01-SemiB 693023';
+font-family:'NewBaskervilleW01-SemiB 693026';
+font-family:'NewBaskervilleW01-Bold';
+font-family:'NewBaskervilleW01-BoldI';
+font-family:'NewBaskervilleW01-Black 693005';
+font-family:'NewBaskervilleW01-Black 693008';
+font-family:'ITNBaskervilleW01-RmSCO';
+font-family:'ITNBaskervilleW01-BdSCO';
+font-family:'AvenirNextRoundedW01-Re';
+font-family:'AvenirNextRoundedW01-It';
+font-family:'AvenirNextRoundedW01-Md 1075562';
+font-family:'AvenirNextRoundedW01-Md 1075565';
+font-family:'AvenirNextRoundedW01-De 1075568';
+font-family:'AvenirNextRoundedW01-De 1075571';
+font-family:'AvenirNextRoundedW01-Bo 1075574';
+font-family:'AvenirNextRoundedW01-Bo 1075577';
+
+
+*/
+
+h1, h2 { color : #c10b0b;   }
+
+h1 { text-align : center; margin-bottom : 24px; font-size: 36px; line-height: 48px; font-family: 'AvenirNextRoundedW01-Re', sans-serif;}
+h2 { margin-top : 24px;  margin-bottom : 12px; font-size: 20px; line-height: 24px; font-family: 'AvenirNextRoundedW01-Md 1075562', sans-serif; }
+
+h1 span { display: block; font-size : 24px; }
+
+p, li { color : #4c4c4c; font-size: 16px; line-height: 24px; font-family: 'NewBaskervilleW01-Roman', serif; }
+p, ul { margin-bottom : 12px; }
+
+ul { list-style-type: circle; padding-left: 2em; }
+
+p a, li a { color : #d85724; }

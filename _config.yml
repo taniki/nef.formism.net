@@ -1,0 +1,15 @@
+title: "La structure du monde"
+subtitle: "temps, causalité, lois"
+
+server: true
+auto: true
+
+pretty: true
+
+markdown: redcarpet
+pygments: true
+
+exclude: ["CNAME"]
+
+redcarpet:
+  with_toc_data: true

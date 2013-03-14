@@ -1,0 +1,60 @@
+header {
+  display : block;
+  height : 60px;
+  background : #F6FAFE;
+  border-bottom: 3px solid #E3E3E3;
+}
+
+header nav {
+  position: relative;
+  width: 980px;
+  margin : 0 auto;
+}
+
+header nav a {
+  display: block;
+  height: 60px;
+  border-bottom: 3px solid #2B2B2B;
+}
+
+header nav a h1 {
+  background-color: #3C3C3C;
+  color : #EDEDED;
+}
+
+header nav a.toc {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 60px;
+  width: 60px;
+  background: #2B2B2B;
+  border-color: #0B0B0B;
+}
+
+.container {
+  width : 640px;
+  display : block;
+  margin : 0 auto;
+}
+
+article { 
+  margin : 72px 0;
+}
+
+article .tags {
+  position : relative;
+  width : 150px;
+  top : 27px;
+  left : -170px;
+  margin : 0;
+  text-align: right;
+  height : 0;
+}
+
+article .tags ul {  list-style-type: none; margin : 0; }
+
+ul.dates { list-style-type: none; padding : 0;  margin: 0; left : -48px; }
+ul.dates li { position: relative; overflow: visible; clear : both; line-height: 24px; }
+ul.dates li a { }
+ul.dates span { width : 0; }
