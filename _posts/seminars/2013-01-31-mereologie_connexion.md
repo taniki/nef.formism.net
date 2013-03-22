@@ -4,6 +4,8 @@ title: "Méréologie et connexion, méréotopologie"
 seminar: 2012-2013-connexions
 part: 1
 
+comments: true
+
 layout: default
 ---
 

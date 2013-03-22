@@ -4,6 +4,8 @@ title: "La théorie humienne de la connexion (nécessaire vs non nécessaire, s�
 seminar: 2012-2013-connexions
 part: 1
 
+comments: true
+
 layout: default
 ---
 

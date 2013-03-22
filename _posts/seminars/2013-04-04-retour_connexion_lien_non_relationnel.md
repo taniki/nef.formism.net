@@ -4,6 +4,8 @@ title: "Retour à la connexion. Lien et connexion. Lien non relationnel"
 seminar: 2012-2013-connexions
 part: 2
 
+comments: true
+
 layout: default
 ---
 

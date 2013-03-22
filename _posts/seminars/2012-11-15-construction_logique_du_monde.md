@@ -4,6 +4,8 @@ title: "Construction logique du monde, Russell, Carnap"
 seminar: 2012-2013-connexions
 part: 1
 
+comments: true
+
 layout: default
 ---
 

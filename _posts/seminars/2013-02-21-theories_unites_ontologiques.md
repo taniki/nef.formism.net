@@ -4,6 +4,8 @@ title: "Théorie des unités ontologiques (ens et unum convertuntur)"
 seminar: 2012-2013-connexions
 part: 2
 
+comments: true
+
 layout: default
 ---
 

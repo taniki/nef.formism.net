@@ -4,6 +4,8 @@ title: "La conception humienne de la causalité et sa critique par Kant"
 seminar: 2012-2013-connexions
 part: 1
 
+comments: true
+
 layout: default
 ---
 

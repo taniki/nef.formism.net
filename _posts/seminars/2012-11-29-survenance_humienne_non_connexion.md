@@ -4,6 +4,8 @@ title: "Survenance humienne et non connexion, critique de la thèse de la surven
 seminar: "2012-2013-connexions"
 part: 1
 
+comments: true
+
 layout: default
 ---
 
